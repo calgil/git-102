@@ -1,5 +1,4 @@
-.env.local
-.env.production.local
+.env*
 
 # General
 .DS_Store
